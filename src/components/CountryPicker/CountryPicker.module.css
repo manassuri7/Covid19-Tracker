@@ -1,0 +1,5 @@
+/* Using modules.css, the styles wont get apply to other modules */
+.formControl{
+    width:30% ;
+    margin-bottom: 30px !important;
+}
