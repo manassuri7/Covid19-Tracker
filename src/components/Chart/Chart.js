@@ -15,7 +15,7 @@ const Chart=({data,country})=>{
       },[]);
 
       const lineChart=(
-        dailyData.length
+        dailyData?.length
         ?(
          <Line
              data={{
